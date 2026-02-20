@@ -1,0 +1,9 @@
+{
+  "name": "IDENTIFICACIÓN CLAUDIO",
+  "short_name": "ID CLAUDIO",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#0d0f12",
+  "theme_color": "#0d0f12",
+  "orientation": "portrait"
+}
